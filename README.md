@@ -7,8 +7,6 @@ This is a project on the use of transfer learning and the Keras suite of functio
 
 Various callbacks were also used during the model training, such as EarlyStopping, ModelCheckpoint and LearningRateScheduler.
 
-Please use the html export if the ipynb is not rendering on Github.
-
 
 
 ### Data source:
